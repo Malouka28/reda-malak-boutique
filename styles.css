@@ -1,3 +1,12 @@
+body {
+    background-image: url('background.jpg'); /* Remplace par le bon chemin */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+background-image: url('images/WhatsApp Image 2025-03-26 à 14.34.15_245f9f37.jpg');
+
 /* Style de la sidebar (cachée par défaut) */
 .sidebar {
     position: fixed;
